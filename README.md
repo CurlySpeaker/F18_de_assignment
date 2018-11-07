@@ -7,3 +7,6 @@ Report
 
 MyBinder
 **https://mybinder.org/v2/gh/CurlySpeaker/F18_de_assignment/master** 
+
+Runge Kunkka  
+![Runge Kunkka method](https://steamuserimages-a.akamaihd.net/ugc/558709425491182651/45D3626C99EE891B538DAF8C663CAD9EA5FAF722/)
